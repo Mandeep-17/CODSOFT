@@ -1,4 +1,4 @@
-****Task 1 **: Titanic Survival Prediction**
+**Task 1: Titanic Survival Prediction**
 
 The dataset typically used for this project contains information
 about individual passengers, such as their age, gender, ticket
