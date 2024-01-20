@@ -9,6 +9,7 @@ Use the Titanic dataset to build a model that predicts whether a passenger on th
 Notebook link:https://github.com/Mandeep-17/CODSOFT/blob/main/Titanic.ipynb
 
 **B. Task 2: IRIS Flower Classification**
+
 Use the Iris dataset to develop a model that can classify iris flowers into different species based on their sepal and petal measurements
 
 Dataset link:https://github.com/Mandeep-17/CODSOFT/blob/main/IRIS.csv
